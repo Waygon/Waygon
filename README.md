@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jian Wei
 - 👀 I’m interested in discovering new technology
-- 🖥️ I’m currently full time working as a Software Engineer at AIMFLEX Technology Sdn. Bhd. in Malaysia
+- 🖥️ I’m currently full time working as a Software Engineer at Eetarp Engineering Pte Ltd in Singapore
 - 📫 You can reach me at https://www.linkedin.com/in/jian-wei-sek-2524a7202/
 
 <!---
